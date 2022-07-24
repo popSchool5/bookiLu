@@ -1,0 +1,352 @@
+@media screen and (max-width: 667px)
+{
+    #bloc_page
+    {
+        width: auto;
+        height: auto;
+    }
+
+    nav
+    {
+        text-align: center;
+        flex-direction: column;
+    }
+
+    nav ul
+    {
+        flex-direction: column;
+    }
+
+    nav li
+    {
+        padding-left: 4px;
+    }
+
+    nav a
+    {
+        font-size: 1em;
+        flex-direction: initial;
+    }
+
+    nav a:hover
+    {
+        border-bottom: 0;
+    }
+
+    nav img
+    {
+        margin-block: none;
+    }
+
+    section 
+    {
+        flex-direction: column;
+        align-content: left;
+    }
+
+    .MargeTitres
+    {
+        flex-direction: column;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+
+    .FiltreTextIcons
+    {
+        margin-top: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    h1
+    {
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .Texte-gauche
+    {
+        text-align: left;
+        margin-left: 0px;
+        margin-left: 20px;
+    }
+
+    .wrap
+    {
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+
+    #hebergements
+    {
+        flex-direction: column-reverse;
+        width: 375px;
+    }
+
+    .ColonneAround
+    {
+        width: 375px;
+    }
+
+    .Bloc-populaires-size
+    {
+        width: 375px;
+        margin-left: 0px;
+        border-radius: 0px;
+    }
+
+    .Cube-Populaires
+    {
+        margin-top: 0px;
+    }
+
+    .taille-hebergements
+    {
+        width: 375;
+        background-color: none;
+    }
+
+    .back-gris1
+    {
+        background-color: white;
+    }
+
+    .bloc-hebergements
+    {
+        margin-left: 10px;
+        padding-left: 0px;
+        display: flex;
+    }
+
+    .FlexColonneCentre
+    {
+        display: flex;
+    }
+
+    .Texte-gauche
+    {
+        margin-left: none;
+        margin-top: 0px;
+    }
+
+    .Texte-Gras
+    {
+        margin-left: 10px;
+    }
+
+    .BlocActivités
+    {
+        margin-left: 0px;
+        margin-right: 0px;
+        flex-direction: column;
+        width: 375px;
+        height: auto;
+    }
+
+    .Footer
+    {
+        width: 355px;
+        height: auto;
+        margin-top: 40px;
+        flex-direction: column;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    }
+
+    .FondGris
+    {
+        width: auto;
+        height: auto;
+    }
+
+    .CubeActivites2
+    {
+        margin-right: 40px;
+    }
+
+    .ImagesActivites1
+    {
+        margin-left: 0px;
+    }
+
+    .ImagesActivites2
+    {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .ImagesActivites3
+    {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .ImagesActivites4
+    {
+        margin-top: 20px;
+    }
+
+    .ImagesActivites5
+    {
+        margin-top: 20px;
+    }
+
+    .ImagesActivites6
+    {
+        margin-top: 20px;
+    }
+
+    .DIV-lien-footer
+    {
+        height: auto;
+        padding: 0px;
+    }
+
+    .None-Decoration
+    {
+        margin-left: 10px;
+        padding: 0px;
+    }
+
+    .marge-footer-bloc1
+    {
+        margin-left: 0px;
+    }
+
+    .marge-footer-bloc3
+    {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .ImagesActivites1 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ImagesActivites2 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ImagesActivites3 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ImagesActivites4 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ImagesActivites5 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ImagesActivites6 {
+        object-fit: cover;
+        width: 335px;
+        height: 134px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .ActivitesTitres {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 315px;
+        padding-left: 20px;
+    }
+
+    .image-hebergements1
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .image-hebergements2
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .image-hebergements3
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .image-hebergements4
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .image-hebergements5
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .image-hebergements6
+    {
+        width: 335px;
+        height: 120px;
+    }
+
+    .CarreHebergements
+    {
+        width: 335px;
+        margin-bottom: 20px;
+        margin-right: 0px;
+    }
+
+    .cube-hebergements-details
+    {
+        width: auto;
+        height: auto;
+    }
+
+    .FlexColonneCentre
+    {
+        justify-content: flex-start;
+        align-items: left;
+    }
+
+    .FlexColonneCentreMedia
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        align-items: left;
+    }
+
+    .FlexBetweenHebergements
+    {
+        justify-content: left;
+        display: inline;
+    }
+
+    .FlexAroundHebergements
+    {
+        justify-content: none;
+    }
+
+    .ColonneAroundHebergements
+    {
+        display: inline;
+    }
+
+}
